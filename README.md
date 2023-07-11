@@ -1,4 +1,3 @@
 # Model Code & Dataset
-[SECON'23] 
-- An Energy-efficient HVAC Control System Using Sensor Data for Stable Environment in LNG Carriers during Construction
+[SECON'23] ECM: An Energy-efficient HVAC Control Framework for Stable Construction Environment
 - Password: upon request
